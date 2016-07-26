@@ -1,0 +1,27 @@
+{
+  "name": "subtext-middleware",
+  "version": "1.0.2",
+  "description": "Middleware factory for the subtext http payload / body parser",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "subtext",
+    "middleware",
+    "express",
+    "formdata",
+    "form-data",
+    "multipart",
+    "post",
+    "form",
+    "body-parser",
+    "body",
+    "parser"
+  ],
+  "author": "John Brett",
+  "license": "MIT",
+  "dependencies": {
+    "subtext": "^4.0.4"
+  }
+}
