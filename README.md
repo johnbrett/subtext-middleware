@@ -1,6 +1,6 @@
 # subtext-middleware
 
-Payload / body parser (including multipart payloads) middleware that just works.
+Payload / body parser (including multipart payloads) middleware.
 
 This is a middleware wrapper for the [subtext](https://github.com/hapijs/subtext) payload parser, originally written by Eran Hammer for [hapijs](https://github.com/hapijs/hapi)
 
