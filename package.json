@@ -22,6 +22,6 @@
   "author": "John Brett",
   "license": "MIT",
   "dependencies": {
-    "subtext": "^4.0.4"
+    "subtext": "^6.0.3"
   }
 }
